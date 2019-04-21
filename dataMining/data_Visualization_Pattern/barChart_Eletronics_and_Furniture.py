@@ -1,4 +1,4 @@
-#bar chart item sold between eletronics and furniture 
+#bar chart item sold 
 
 import numpy as np
 import matplotlib.pyplot as plt
