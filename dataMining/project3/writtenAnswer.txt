@@ -1,0 +1,10 @@
+section 1:
+
+there is a '?' in the labels, so I manually removed it using a text editor.
+
+the questions is to detect a imagine within the a 28 by 28 pixel matrix as a gray scale.
+
+section 4:
+
+Naive bayes accuracy can be goes down when there lot of 0 in the data set
+KNN doesn't make assumptions
